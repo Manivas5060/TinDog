@@ -1,2 +1,1 @@
-# TinDog
-Front End Development
+TinDog Starting Files
